@@ -10,3 +10,6 @@ Berikut adalah contoh dalam menampilkan data atau konten secara otomatis dari su
 </ol>
 
 <strong>Note:</strong> Pada contoh ini tidak ada penggunaan library atau framework tambahan, baik pada penyajian tampilan data maupun pengambilan data.
+
+Referensi:
+https://www.youtube.com/watch?v=xeZACMj57XE

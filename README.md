@@ -9,9 +9,10 @@ Berikut adalah contoh dalam menampilkan data atau konten secara otomatis dari su
   <li>Bahasa scripting HTML & CSS</li>
 </ol>
 
-<strong>Note:</strong> Pada contoh ini tidak ada penggunaan library atau framework tambahan, baik pada penyajian tampilan data maupun pengambilan data.
+<strong>Note:</strong><br>
+Pada contoh ini tidak ada penggunaan library atau framework tambahan, baik pada penyajian tampilan data maupun pengambilan data.
 
-Referensi:<br>
+<b>Referensi:</b><br>
 <ul>
   <li>https://www.youtube.com/watch?v=xeZACMj57XE</li>
   <li>https://makitweb.com/how-to-send-get-and-post-ajax-request-with-javascript/</li>
